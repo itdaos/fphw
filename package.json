@@ -1,0 +1,22 @@
+{
+  "name": "fphw",
+  "version": "1.0.0",
+  "description": "functional paradigm homework",
+  "main": "lecture1.js",
+  "scripts": {
+    "script1": "node lecture1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itdaos/fphw.git"
+  },
+  "author": "itdaos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itdaos/fphw/issues"
+  },
+  "homepage": "https://github.com/itdaos/fphw#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
